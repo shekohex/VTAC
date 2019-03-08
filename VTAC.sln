@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTAC", "VTAC\VTAC.csproj", "{3F8A6163-58A6-4DB7-8D1A-B4210E23CC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8A6163-58A6-4DB7-8D1A-B4210E23CC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8A6163-58A6-4DB7-8D1A-B4210E23CC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8A6163-58A6-4DB7-8D1A-B4210E23CC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8A6163-58A6-4DB7-8D1A-B4210E23CC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25F868A-A908-4A8A-849C-034A09596511}
+	EndGlobalSection
+EndGlobal
